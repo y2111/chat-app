@@ -3,14 +3,6 @@ import socket
 import pickle      
 import random
 
-
-
-
-
-
-
-
-
 # Create a socket object
 s = socket.socket()        
  
