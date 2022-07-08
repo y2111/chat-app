@@ -1,7 +1,4 @@
-#receving message from other users
-#all for other users
-#username
-
+#server side
 import sys
 import socket
 from _thread import *		
